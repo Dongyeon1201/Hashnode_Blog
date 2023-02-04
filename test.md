@@ -5,7 +5,7 @@ slug: TEST_SLUG
 tags: javascript, python
 cover: COVER_IMAGE_URL
 domain: testteam.hashnode.dev  
-publishAs: 김동연
+publishAs: dongyeon1201
 ignorePost: Boolean
 hideFromHashnodeCommunity: Boolean
 ---
