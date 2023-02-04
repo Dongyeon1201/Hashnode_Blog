@@ -1,13 +1,13 @@
 ---
 title: TEST_TITLE
 subtitle: TEST_SUB_TITLE
-slug: TEST_SLUG (Will be created automatically if not provided)
+slug: TEST_SLUG
 tags: JavaScript, Python
 cover: COVER_IMAGE_URL
 domain: testteam.hashnode.dev  
 publishAs: 김동연
-ignorePost: Boolean (default: false)
-hideFromHashnodeCommunity: Boolean (default: false)
+ignorePost: Boolean
+hideFromHashnodeCommunity: Boolean
 ---
 
 HELLO WORLD :)
