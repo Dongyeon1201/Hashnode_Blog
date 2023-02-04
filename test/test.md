@@ -9,7 +9,6 @@ publishAs: dongyeon1201
 canonical: CANONICAL_URL_OF_ARTICLE
 ignorePost: Boolean
 hideFromHashnodeCommunity: Boolean
-series: test-series
 ---
 
 HELLO WORLD :)
