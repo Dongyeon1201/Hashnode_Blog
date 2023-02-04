@@ -1,7 +1,7 @@
 ---
 title: TEST_TITLE
 subtitle: TEST_SUB_TITLE
-slug: test-series
+slug: series
 tags: javascript, python
 cover: COVER_IMAGE_URL
 domain: testteam.hashnode.dev  
