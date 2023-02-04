@@ -2,7 +2,7 @@
 title: TEST_TITLE
 subtitle: TEST_SUB_TITLE
 slug: TEST_SLUG
-tags: JavaScript, Python
+tags: javascript, python
 cover: COVER_IMAGE_URL
 domain: testteam.hashnode.dev  
 publishAs: 김동연
